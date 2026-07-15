@@ -77,7 +77,7 @@ Become a Professional Backend Engineer & Cybersecurity Expert.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rakibulhasan07&theme=algolia&margin-w=15&margin-h=15"/>
 
 </p>
 
